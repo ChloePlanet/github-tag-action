@@ -66,7 +66,7 @@ jobs:
 ## Workflow
 
 * Add this action to your repo
-* Commit some changes with message contains `#major` or `#patch` or `#patch`
+* Commit some changes with message contains `#major` or `#minor` or `#patch`
 * Either push to master or open a PR
 * On push (or merge) to `master`, the action will:
   * Get latest tag
